@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_record_default.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_record_default.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_slt_as_ios7_other_bt_single.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_slt_as_ios7_other_bt_single.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_ic_failed.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_ic_failed.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_push.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\push.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_shortcut_permission_guide_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\shortcut_permission_guide_bg.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_share.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_share.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_static.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\anim\\dcloud_slide_static.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_ic_zhifubao.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_ic_zhifubao.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_getui_notification.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_shortcut_guide_xiaomi.gif.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_shortcut_guide_xiaomi.gif"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dcloud_left_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-hdpi-v4\\dcloud_left_arrow.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_icon.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_ic_weixin.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_ic_weixin.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_middle_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_in_from_right.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\anim\\dcloud_slide_in_from_right.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_middle_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_right_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\anim\\dcloud_slide_right_in.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_streamapp_custom_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_streamapp_custom_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-ldpi\\splash.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_point_f32720.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_point_f32720.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_notification_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_custom_notification_dark.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_notification_transparent.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_custom_notification_transparent.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_notification.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_custom_notification.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_alert_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_custom_alert_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_notification_white.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_custom_notification_white.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_provider.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\xml\\file_provider.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_home.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_home.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_out_to_top.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\anim\\dcloud_slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_ic_success.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_ic_success.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_shortcut_permission_guide_play.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\shortcut_permission_guide_play.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_dialog_shape_bg.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_dialog_shape_bg.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_dcloud_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\ad_dcloud_main.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_record_address.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_record_address.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_bottom_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_custom_menu_item_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_custom_menu_item_bg.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_sidebar_shortcut.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\sidebar_shortcut.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_slt_as_ios7_other_bt_title.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_slt_as_ios7_other_bt_title.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_close.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_streamapp_about_first_start_short_cut_checkbox.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_streamapp_about_first_start_short_cut_checkbox.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dcloud_snow_black_progress.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\dcloud_snow_black_progress.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_custom_menu_item_line.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_custom_menu_item_line.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_in_from_top.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\anim\\dcloud_slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_uncheck.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_uncheck.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_sdk_layout_action_bar.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\sdk_layout_action_bar.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_middle_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_point_dd524d.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_point_dd524d.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_slt_as_ios7_other_bt_middle.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_slt_as_ios7_other_bt_middle.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_shortcut_permission_guide_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_shortcut_permission_guide_layout.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_as_bg_ios6.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\as_bg_ios6.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_webview_activity_title_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_webview_activity_title_bg.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dcloud_snow_white.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\dcloud_snow_white.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_single_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_push.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_refresh.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_refresh.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_shortcut_guide_meizu.gif.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_shortcut_guide_meizu.gif"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_shortcut_guide_huawei.gif.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_shortcut_guide_huawei.gif"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_pick_mask.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\image_pick_mask.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_main_test_activity.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_main_test_activity.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\raw_notificationalarm.mp3.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\raw\\notificationalarm.mp3"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_activity_main_market.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_activity_main_market.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_single_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_openbar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_openbar.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_about_buttons_button_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_about_buttons_button_bg.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_printer_main.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\printer_main.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_bottom_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dcloud_assistan_loc.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-hdpi-v4\\dcloud_assistan_loc.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_right_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\anim\\dcloud_slide_right_out.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_dialog_shape.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_dialog_shape.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_single_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_printer_device_list.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\printer_device_list.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_notification_mi.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\dcloud_custom_notification_mi.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_offline_pin_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\offline_pin_round.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdk_button_selector.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\sdk_button_selector.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_dialog.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_dialog.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_about_right_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_right_arrow.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_printer_main.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\printer_main.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_check.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_check.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_snow_white_progress.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_snow_white_progress.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_top_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_shortcut_permission_guide_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\shortcut_permission_guide_close.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dcloud_snow_white_progress.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\dcloud_snow_white_progress.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_push.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-mdpi\\push.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_image_pick_title_sel.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_image_pick_title_sel.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_closebar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_closebar.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_as_other_bt_bg.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_as_other_bt_bg.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_slt_as_ios7_other_bt_bottom.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_slt_as_ios7_other_bt_bottom.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_loadingview.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_loadingview.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_about_share.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_share.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_offline_pin.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\offline_pin.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad_dcloud_main_skip_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\ad_dcloud_main_skip_bg.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_bottom_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_image_pick_mask.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_image_pick_mask.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_webview_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\webview_layout.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dcloud_shadow_left.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\dcloud_shadow_left.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_button_bg_unable.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_button_bg_unable.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_about_buttons_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\dcloud_about_buttons_bg.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_push.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-ldpi\\push.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_actionsheet_top_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_out_to_right.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\anim\\dcloud_slide_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_image_pick_gallery_item.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_image_pick_gallery_item.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dcloud_record_view_line.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-hdpi-v4\\dcloud_record_view_line.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_slt_as_ios7_cancel_bt.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_slt_as_ios7_cancel_bt.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_about_feedback.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_feedback.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_button_bg.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_button_bg.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dcloud_right_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-hdpi-v4\\dcloud_right_arrow.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_as_bg_ios6.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_as_bg_ios6.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_image_pick_gallery.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_image_pick_gallery.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_sdk_layout_info_dialog.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\sdk_layout_info_dialog.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_about_first_start_short_cut_cheked.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_first_start_short_cut_cheked.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sdk_button_bg_press.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\sdk_button_bg_press.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_printer_device_name.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\printer_device_name.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_bottom_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_snow_black_progress.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_snow_black_progress.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_dcloud_assistan_loc.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xxhdpi-v4\\dcloud_assistan_loc.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad_dcloud_main_skip_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable\\ad_dcloud_main_skip_shape.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_icon_appdefault.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_icon_appdefault.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_about_first_start_short_cut_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_first_start_short_cut_normal.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_pick_no_media.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\image_pick_no_media.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_image_pick_no_media.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_image_pick_no_media.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_as_cancel_bt_bg.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\as_cancel_bt_bg.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dcloud_snow_black.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-hdpi\\dcloud_snow_black.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_longding_bg.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_longding_bg.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_side_bar_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\side_bar_layout.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_market_fragment_base.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\dcloud_market_fragment_base.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdk_check_selector.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\sdk_check_selector.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_printer_device_list.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\printer_device_list.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_printer_device_name.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\printer_device_name.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_bg.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_about_update.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_update.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_custom_menu_item_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_custom_menu_item_selected.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_top_pressed.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_recent.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\dcloud_recent.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dcloud_record_border.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-hdpi-v4\\dcloud_record_border.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_favorite.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\drawable-xhdpi-v4\\side_bar_favorite.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_pop_selector.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\btn_pop_selector.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_middle_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_free_dialog_bg.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\free_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\color_dcloud_slt_about_text_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\color\\dcloud_slt_about_text_color.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_slt_as_ios7_other_bt_top.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable\\dcloud_slt_as_ios7_other_bt_top.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_push.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\activity_push.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_top_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_push.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\push.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_as_other_bt_bg.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\as_other_bt_bg.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dcloud_as_cancel_bt_bg.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\dcloud_as_cancel_bt_bg.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionsheet_single_normal.9.png.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xhdpi\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_dcloud_splash.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\layout\\ad_dcloud_splash.xml"
+    },
+    {
+        "merged": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout_sdk_activity_cashier.xml.flat",
+        "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\layout\\sdk_activity_cashier.xml"
+    }
+]

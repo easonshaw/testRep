@@ -1,0 +1,174 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\style_sdk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "571"
+                    },
+                    "to": {
+                        "startLines": "110",
+                        "startColumns": "4",
+                        "startOffsets": "6906",
+                        "endLines": "121",
+                        "endColumns": "12",
+                        "endOffsets": "7409"
+                    }
+                },
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\dcloud_colors.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,137,96",
+                        "endColumns": "40,40,40",
+                        "endOffsets": "91,173,132"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "145,186,227",
+                        "endColumns": "40,40,40",
+                        "endOffsets": "181,222,263"
+                    }
+                },
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\dcloud_nativeui_styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,991",
+                        "endLines": "16,34",
+                        "endColumns": "12,12",
+                        "endOffsets": "983,2165"
+                    },
+                    "to": {
+                        "startLines": "56,70",
+                        "startColumns": "4,4",
+                        "startOffsets": "3655,4571",
+                        "endLines": "69,86",
+                        "endColumns": "12,12",
+                        "endOffsets": "4566,5729"
+                    }
+                },
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,4,2,9,23,13,15,14,3,20,19,8,17,18,11,10,12,22,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "254,174,77,351,1073,574,681,629,120,914,865,292,768,814,467,415,521,1017,961",
+                        "endColumns": "36,52,41,62,44,53,52,50,52,45,47,57,44,49,52,50,51,54,54",
+                        "endOffsets": "286,222,114,409,1113,623,729,675,168,955,908,345,808,859,515,461,568,1067,1011"
+                    },
+                    "to": {
+                        "startLines": "35,36,37,38,39,41,42,43,44,45,46,47,48,49,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2578,2615,2668,2710,2773,2887,2941,2994,3045,3098,3144,3192,3250,3295,3389,3442,3493,3545,3600",
+                        "endColumns": "36,52,41,62,44,53,52,50,52,45,47,57,44,49,52,50,51,54,54",
+                        "endOffsets": "2610,2663,2705,2768,2813,2936,2989,3040,3093,3139,3187,3245,3290,3340,3437,3488,3540,3595,3650"
+                    }
+                },
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\dcloud_activity_styles.xml",
+                    "from": {
+                        "startLines": "2,12,7,24,18",
+                        "startColumns": "5,5,5,4,4",
+                        "startOffsets": "58,524,279,1096,815",
+                        "endLines": "5,16,10,29,22",
+                        "endColumns": "13,12,12,12,12",
+                        "endOffsets": "266,803,511,1401,1088"
+                    },
+                    "to": {
+                        "startLines": "97,101,106,136,148",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "6185,6394,6673,8174,8811",
+                        "endLines": "100,105,109,141,152",
+                        "endColumns": "13,12,12,12,12",
+                        "endOffsets": "6389,6668,6901,8474,9080"
+                    }
+                },
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\dcloud_styles.xml",
+                    "from": {
+                        "startLines": "40,39,41,30,35,3,8,16,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1938,1874,2003,1486,1702,59,345,734,1151",
+                        "endLines": "40,39,41,33,37,6,14,21,28",
+                        "endColumns": "63,62,48,12,12,12,12,12,12",
+                        "endOffsets": "1997,1932,2047,1694,1866,337,726,1097,1460"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,122,130,153,157,164,170",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "309,373,436,7414,7837,9085,9365,9745,10108",
+                        "endLines": "8,9,10,125,132,156,163,169,174",
+                        "endColumns": "63,62,48,12,12,12,12,12,12",
+                        "endOffsets": "368,431,480,7619,7999,9360,9740,10103,10413"
+                    }
+                },
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "32,22,19,31,29,30,21,23,24,25,26,27,28,20,6,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1267,812,690,1217,1129,1172,773,853,899,945,991,1037,1083,732,191,522",
+                        "endLines": "32,22,19,31,29,30,21,23,24,25,26,27,28,20,12,17",
+                        "endColumns": "49,39,40,48,41,43,37,44,44,44,44,44,44,39,12,12",
+                        "endOffsets": "1312,847,726,1261,1166,1211,806,893,939,985,1031,1077,1123,767,481,679"
+                    },
+                    "to": {
+                        "startLines": "2,3,7,11,12,13,14,15,16,17,18,19,20,21,87,94",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,268,485,534,576,620,658,703,748,793,838,883,928,5734,6025",
+                        "endLines": "2,3,7,11,12,13,14,15,16,17,18,19,20,21,93,96",
+                        "endColumns": "49,39,40,48,41,43,37,44,44,44,44,44,44,39,12,12",
+                        "endOffsets": "100,140,304,529,571,615,653,698,743,788,833,878,923,963,6020,6180"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\ab523bdaba2d50239f6fb688124e654d\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "135,8,9,10,13,65,72,81",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "8049,354,415,478,668,3911,4291,4766",
+                        "endLines": "142,8,9,10,13,68,74,86",
+                        "endColumns": "24,60,62,68,43,12,12,12",
+                        "endOffsets": "8331,410,473,542,707,4119,4456,5093"
+                    },
+                    "to": {
+                        "startLines": "24,32,33,34,50,126,133,142",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2098,2385,2446,2509,3345,7624,8004,8479",
+                        "endLines": "31,32,33,34,50,129,135,147",
+                        "endColumns": "24,60,62,68,43,12,12,12",
+                        "endOffsets": "2380,2441,2504,2573,3384,7832,8169,8806"
+                    }
+                },
+                {
+                    "source": "F:\\HBuilder-Hello\\app\\src\\main\\res\\values\\dcloud_gallery_strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "68",
+                        "endOffsets": "81"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "2818",
+                        "endColumns": "68",
+                        "endOffsets": "2882"
+                    }
+                }
+            ]
+        }
+    ]
+}

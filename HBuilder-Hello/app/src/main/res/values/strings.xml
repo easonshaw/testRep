@@ -1,0 +1,26 @@
+<resources>
+    <!--<string name="app_name">HBuilder-Hello</string>-->
+    <string name="app_name">掌上营销</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- BTPrinter -->
+    <string name="Print">打印</string>
+    <string name="not_connected">请先连接蓝牙打印机（连接蓝牙）</string>
+    <string name="bt_not_enabled_leaving">蓝牙没有启动，无法打印</string>
+    <string name="title_connecting">正在连接…</string>
+    <string name="title_connected_to">已连接- </string>
+    <string name="title_not_connected">未连接</string>
+    <string name="default_font_gray_scale">4</string>
+    <string name="fontGrayscaleName">打印灰度</string>
+    <string name="fontGrayScaleRange">(1~8)</string>
+    <!-- DeviceListActivity -->
+    <string name="scanning">正在扫描设备…</string>
+    <string name="select_device">选择连接的设备</string>
+    <string name="none_paired">没有匹配的设备</string>
+    <string name="none_found">没有找到设备</string>
+    <string name="title_paired_devices">匹配的设备</string>
+    <string name="title_other_devices">其它可用设备</string>
+    <string name="button_scan">扫描设备</string>
+
+</resources>

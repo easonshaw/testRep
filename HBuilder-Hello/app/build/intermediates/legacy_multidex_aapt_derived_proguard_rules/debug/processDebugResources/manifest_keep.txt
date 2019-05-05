@@ -1,0 +1,4 @@
+# Referenced at F:\HBuilder-Hello\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:128
+-keep class io.dcloud.application.DCloudApplication { <init>(...); }
+# Referenced at F:\HBuilder-Hello\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:346
+-keep class io.dcloud.multiprocess.activity.WebAppActivity1 { <init>(...); }
